@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1738462344,,"wq!"
+|2,0,1738463153,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,37 @@
 # Registers:
 
 # File marks:
-'0  1  14  ~/name.txt
-|4,48,1,14,1738462344,"~/name.txt"
-'1  1  0  ~/secrets/initialAdminPassword
-|4,49,1,0,1738256197,"~/secrets/initialAdminPassword"
+'0  1  5  ~/gd.yaml
+|4,48,1,5,1738463153,"~/gd.yaml"
+'1  1  14  ~/name.txt
+|4,49,1,14,1738462344,"~/name.txt"
+'2  1  0  ~/secrets/initialAdminPassword
+|4,50,1,0,1738256197,"~/secrets/initialAdminPassword"
 
 # Jumplist (newest first):
+-'  1  5  ~/gd.yaml
+|4,39,1,5,1738463153,"~/gd.yaml"
+-'  1  14  ~/name.txt
+|4,39,1,14,1738462344,"~/name.txt"
 -'  1  14  ~/name.txt
 |4,39,1,14,1738462344,"~/name.txt"
 -'  1  0  ~/secrets/initialAdminPassword
 |4,39,1,0,1738256197,"~/secrets/initialAdminPassword"
 -'  1  0  ~/secrets/initialAdminPassword
 |4,39,1,0,1738256197,"~/secrets/initialAdminPassword"
+-'  1  0  ~/secrets/initialAdminPassword
+|4,39,1,0,1738256197,"~/secrets/initialAdminPassword"
+-'  1  0  ~/secrets/initialAdminPassword
+|4,39,1,0,1738256197,"~/secrets/initialAdminPassword"
 
 # History of marks within files (newest to oldest):
+
+> ~/gd.yaml
+	*	1738463150	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
 
 > ~/name.txt
 	*	1738462341	0
